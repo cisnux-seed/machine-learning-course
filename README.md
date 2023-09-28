@@ -1,5 +1,5 @@
 # Course Machine Learning
-Welcome to the Machine Learning Course! This comprehensive course is designed to provide you with a deep understanding of machine learning concepts and techniques, equipping you with the knowledge and skills needed to tackle real-world data-driven problems.
+Welcome to the Machine Learning Course!
 
 ## My Profile
 NIM: 1103200032\
