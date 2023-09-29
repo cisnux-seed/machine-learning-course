@@ -8,4 +8,4 @@ Class: TK-44-06
 
 ## List of Contents
 
-[Week 1](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_1)
+[Week 1](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_1): Basic Data Exploration, Decision Tree Model, Model Validation, Underfitting and Overfitting, and Random Forest. 
