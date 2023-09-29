@@ -1,4 +1,4 @@
-# Course Machine Learning
+# Machine Learning Course
 Welcome to the Machine Learning Course!
 
 ## My Profile
