@@ -14,4 +14,5 @@ Class: TK-44-06
 [Week 4](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_4): Data Visualization.\
 [Week 5](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_5): PCA.\
 [Week 6](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_6): Clustering.\
-[Week 7](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_7): XGBoost.
+[Week 7](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_7): XGBoost.\
+[Mid Exam](https://github.com/cisnux-seed/course-machine-learning/tree/main/mid_exam): Linear Regression.
