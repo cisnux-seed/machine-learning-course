@@ -19,4 +19,4 @@ Class: TK-44-06
 [Week 9](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_9): SVM.\
 [Week 10](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_10): Neural Network.\
 [Week 11](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_11): Neural Network.\
-[Week 11](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_13): Neural Network.
+[Week 13](https://github.com/cisnux-seed/course-machine-learning/tree/main/week_13): CNN.
