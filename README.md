@@ -2,7 +2,7 @@
 Welcome to the Machine Learning Course!
 
 ## My Profile
-NIM: 1103200032\
+Student ID: 1103200032\
 Name: Fajra Risqulla\
 Class: TK-44-06
 
